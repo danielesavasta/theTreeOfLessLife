@@ -23,3 +23,7 @@ This project combines data visualization and design to communicate complex envir
 ## Acknowledgments
 
 Special thanks to the Visual Communication Design Department at İzmir University of Economics for their guidance and support throughout the development of this project.
+
+
+# Human Footprint
+Human Footprint, the pressure imposed on the eco-environment by changing ecological processes and natural landscapes, is raising worldwide concerns on biodiversity and ecological conservation. The data collects eight variables that reflect different aspects of human pressures: Built Environment • Population Density • Nighttime lights • Croplands • Pastures • Roads • Railways • Navigable waterways.
