@@ -1,0 +1,90 @@
+[
+  {
+    "year": 2010,
+    "Africa": 7.5,
+    "Asia": 9.2,
+    "Europe": 10.8,
+    "Oceania": 6.3,
+    "America": 8.9
+  },
+  {
+    "year": 2011,
+    "Africa": 7.6,
+    "Asia": 9.299999999999999,
+    "Europe": 10.9,
+    "Oceania": 6.3999999999999995,
+    "America": 9.0
+  },
+  {
+    "year": 2012,
+    "Africa": 7.7,
+    "Asia": 9.399999999999999,
+    "Europe": 11.0,
+    "Oceania": 6.5,
+    "America": 9.1
+  },
+  {
+    "year": 2013,
+    "Africa": 7.8,
+    "Asia": 9.5,
+    "Europe": 11.100000000000001,
+    "Oceania": 6.6,
+    "America": 9.200000000000001
+  },
+  {
+    "year": 2014,
+    "Africa": 7.9,
+    "Asia": 9.6,
+    "Europe": 11.200000000000001,
+    "Oceania": 6.7,
+    "America": 9.3
+  },
+  {
+    "year": 2015,
+    "Africa": 8.0,
+    "Asia": 9.7,
+    "Europe": 11.3,
+    "Oceania": 6.8,
+    "America": 9.4
+  },
+  {
+    "year": 2016,
+    "Africa": 8.1,
+    "Asia": 9.799999999999999,
+    "Europe": 11.4,
+    "Oceania": 6.9,
+    "America": 9.5
+  },
+  {
+    "year": 2017,
+    "Africa": 8.2,
+    "Asia": 9.899999999999999,
+    "Europe": 11.5,
+    "Oceania": 7.0,
+    "America": 9.6
+  },
+  {
+    "year": 2018,
+    "Africa": 8.3,
+    "Asia": 10.0,
+    "Europe": 11.600000000000001,
+    "Oceania": 7.1,
+    "America": 9.700000000000001
+  },
+  {
+    "year": 2019,
+    "Africa": 8.4,
+    "Asia": 10.1,
+    "Europe": 11.700000000000001,
+    "Oceania": 7.2,
+    "America": 9.8
+  },
+  {
+    "year": 2020,
+    "Africa": 8.5,
+    "Asia": 10.2,
+    "Europe": 11.8,
+    "Oceania": 7.3,
+    "America": 9.9
+  }
+]

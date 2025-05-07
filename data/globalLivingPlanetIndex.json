@@ -1,0 +1,80 @@
+
+{
+  "2010": {
+    "Africa": 31.54,
+    "America": 40.79,
+    "Europe": 85.35,
+    "Asia": 65.00,
+    "Oceania": 42.04
+  },
+  "2011": {
+    "Africa": 30.38,
+    "America": 39.96,
+    "Europe": 81.82,
+    "Asia": 63.00,
+    "Oceania": 40.70
+  },
+  "2012": {
+    "Africa": 29.08,
+    "America": 39.01,
+    "Europe": 76.98,
+    "Asia": 61.00,
+    "Oceania": 40.63
+  },
+  "2013": {
+    "Africa": 28.17,
+    "America": 38.38,
+    "Europe": 71.38,
+    "Asia": 60.00,
+    "Oceania": 42.73
+  },
+  "2014": {
+    "Africa": 26.96,
+    "America": 37.24,
+    "Europe": 70.05,
+    "Asia": 59.00,
+    "Oceania": 45.03
+  },
+  "2015": {
+    "Africa": 26.05,
+    "America": 37.17,
+    "Europe": 68.17,
+    "Asia": 58.00,
+    "Oceania": 47.19
+  },
+  "2016": {
+    "Africa": 25.60,
+    "America": 37.67,
+    "Europe": 66.20,
+    "Asia": 57.00,
+    "Oceania": 45.74
+  },
+  "2017": {
+    "Africa": 25.55,
+    "America": 37.13,
+    "Europe": 63.67,
+    "Asia": 56.00,
+    "Oceania": 45.33
+  },
+  "2018": {
+    "Africa": 25.26,
+    "America": 36.07,
+    "Europe": 62.70,
+    "Asia": 55.00,
+    "Oceania": 43.19
+  },
+  "2019": {
+    "Africa": 24.63,
+    "America": 34.97,
+    "Europe": 63.47,
+    "Asia": 54.00,
+    "Oceania": 41.93
+  },
+  "2020": {
+    "Africa": 23.97,
+    "America": 33.17,
+    "Europe": 64.72,
+    "Asia": 52.00,
+    "Oceania": 39.60
+  }
+}

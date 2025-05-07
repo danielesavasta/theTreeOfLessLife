@@ -1,0 +1,24 @@
+{
+  "fixed_landmass": [
+    {
+      "continent": "Africa",
+      "land_area_km2": 29648000
+    },
+    {
+      "continent": "Asia",
+      "land_area_km2": 44579000
+    },
+    {
+      "continent": "Europe",
+      "land_area_km2": 22134000
+    },
+    {
+      "continent": "America",
+      "land_area_km2": 42549000
+    },
+    {
+      "continent": "Oceania",
+      "land_area_km2": 8525989
+    }
+  ]
+}
